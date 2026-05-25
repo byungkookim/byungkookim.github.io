@@ -1,0 +1,32 @@
+---
+title: "ByungKoo Kim"
+pagetitle: "ByungKoo Kim"
+toc: false
+about:
+  template: trestles
+  image: images/bkkim_profile_short.png
+  image-shape: round
+  image-width: 16em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:kimbk@kdischool.ac.kr
+    - icon: github
+      text: GitHub
+      href: https://github.com/byungkookim
+    - text: "{{< iconify academicons google-scholar >}} Scholar"
+      href: https://scholar.google.com/
+---
+
+I am an Assistant Professor of Data Science at the
+[KDI School of Public Policy and Management](https://www.kdischool.ac.kr/).
+
+My research lies at the intersection of **international political economy**
+and **quantitative methods**. I work on global supply chains, the politics
+of trade governance, and the development of Bayesian models for networked
+data --- including text-and-citation models for legal corpora and dynamic
+latent-space models for trade networks.
+
+I received my Ph.D. in Political Science and M.A. in Statistics from the
+University of Michigan in 2023, and my B.A. and M.A. from Seoul National
+University.

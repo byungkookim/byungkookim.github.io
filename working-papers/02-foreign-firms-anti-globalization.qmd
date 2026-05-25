@@ -1,0 +1,6 @@
+---
+title: "Do Jobs Created by Foreign Firms Decrease Support for an Anti-Globalization Politician?"
+author: "ByungKoo Kim, Seungjun Kim, and Jong Hee Park"
+status: "Under Review"
+order: 2
+---

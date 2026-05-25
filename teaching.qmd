@@ -1,0 +1,20 @@
+---
+title: "Teaching"
+toc: false
+---
+
+## KDI School of Public Policy and Management
+
+- Statistical Foundation for Data Scientists
+- R Fundamentals for Public Policy
+- Machine Learning for Social Scientists
+- Text Analysis for Social Scientists
+
+## University of Michigan (graduate student instructor)
+
+- Mathematics for Political Scientists --- with Prof. Iain Osgood
+- Statistical Methods in Political Research II --- with Prof. Kevin Quinn
+- Politics of International Economic Relations --- with Prof. Iain Osgood
+- Game Theory and Models --- with Prof. Iain Osgood
+- Advanced Topics in Quantitative Methodology --- with Prof. Yuki Shiraito
+- Quantitative Empirical Methods of Political Science --- with Prof. Robert Franzese

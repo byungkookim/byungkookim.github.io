@@ -1,0 +1,8 @@
+---
+title: "Partisan Panel Composition and Reliance on Earlier Opinions in the Circuit Courts"
+author: "ByungKoo Kim, Stuart Benjamin, and Kevin Quinn"
+date: "2024-06-01"
+year: 2024
+venue: "Journal of Law and Empirical Analysis, 1(1), 2--14"
+url: "https://journals.sagepub.com/doi/full/10.1177/2755323X241240384"
+---

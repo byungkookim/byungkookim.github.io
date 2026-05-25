@@ -1,0 +1,22 @@
+<div class="pub-list">
+<% for (const item of items) { %>
+<div class="pub-item">
+<div class="pub-title">
+<% if (item.url) { %><a href="<%= item.url %>"><%= item.title %></a><% } else { %><%= item.title %><% } %>
+</div>
+<div class="pub-authors"><%= item.author %></div>
+<div class="pub-venue">
+<% if (item.venue) { %><em><%= item.venue %></em><% } %>
+<% if (item.year) { %><span class="pub-year"><%= item.year %></span><% } %>
+<% if (item.status) { %><span class="pub-status"><%= item.status %></span><% } %>
+</div>
+<% if (item.links && item.links.length > 0) { %>
+<div class="pub-links">
+<% for (const link of item.links) { %>
+<a href="<%= link.url %>" class="pub-link"><%= link.text %></a>
+<% } %>
+</div>
+<% } %>
+</div>
+<% } %>
+</div>

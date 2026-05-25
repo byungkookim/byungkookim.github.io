@@ -1,0 +1,27 @@
+---
+title: "CV"
+toc: false
+---
+
+You can download my full CV here:
+[**Kim_CV.pdf**](files/cv.pdf) *(last updated 2026)*.
+
+::: {.callout-note appearance="simple"}
+The PDF is the authoritative version. The summary below is a snapshot.
+:::
+
+## Education
+
+- **Ph.D., Political Science**, University of Michigan, 2023
+- **M.A., Statistics**, University of Michigan, 2023
+- **M.A., Political Science**, Seoul National University, 2016
+- **B.A., English Literature & Linguistics** (Political Science minor), Seoul National University, 2013
+
+## Positions
+
+- **Assistant Professor of Data Science**, KDI School of Public Policy and Management, 2023--present
+
+## Software
+
+- **`GVCpack`** --- R package: comprehensive measures of global value chain data
+- **`PCTM`** --- R package: paragraph-citation topic model (with Saki Kuzushima and Yuki Shiraito)

@@ -1,0 +1,6 @@
+---
+title: "Paragraph-Topic Citation Model for Networked Text Data"
+author: "ByungKoo Kim, Saki Kuzushima, and Yuki Shiraito"
+status: "Revise and Resubmit at *Bayesian Analysis*"
+order: 1
+---

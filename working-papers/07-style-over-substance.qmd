@@ -1,0 +1,6 @@
+---
+title: "Style Over Substance: Citizen Coproduction and the Quality of Public Petitions"
+author: "Kyusik Yang, ByungKoo Kim, and Seo-young Silvia Kim"
+status: "Under Review"
+order: 6
+---

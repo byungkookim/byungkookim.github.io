@@ -1,0 +1,8 @@
+---
+title: "Why Your Neighbor Matters: Positions in Preferential Trade Agreement Networks and Export Growth in Global Value Chains"
+author: "Jong Hee Park and ByungKoo Kim"
+date: "2020-09-01"
+year: 2020
+venue: "Economics & Politics, 32(3), 381--410"
+url: "https://onlinelibrary.wiley.com/doi/full/10.1111/ecpo.12152"
+---

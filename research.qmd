@@ -1,0 +1,33 @@
+---
+title: "Research"
+toc: false
+listing:
+  - id: publications
+    contents: publications
+    sort: "date desc"
+    type: default
+    template: _pub-listing.ejs
+    fields: [title, author, year, venue, url, links]
+    sort-ui: false
+    filter-ui: false
+    categories: false
+  - id: working-papers
+    contents: working-papers
+    sort: "order asc"
+    type: default
+    template: _pub-listing.ejs
+    fields: [title, author, status, venue, url, links]
+    sort-ui: false
+    filter-ui: false
+    categories: false
+---
+
+## Journal Publications
+
+::: {#publications}
+:::
+
+## Working Papers
+
+::: {#working-papers}
+:::

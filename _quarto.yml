@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "ByungKoo Kim"
+  description: "Assistant Professor of Data Science, KDI School of Public Policy and Management"
+  site-url: "https://byungkookim.github.io"
+  repo-url: "https://github.com/byungkookim/byungkookim.github.io"
+  favicon: images/favicon.ico
+  navbar:
+    pinned: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - icon: envelope
+        href: "mailto:kimbk@kdischool.ac.kr"
+        aria-label: Email
+      - icon: github
+        href: "https://github.com/byungkookim"
+        aria-label: GitHub
+      - text: "Scholar"
+        href: "https://scholar.google.com/"
+        aria-label: Google Scholar
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    grid:
+      body-width: 850px
+    link-external-newwindow: true
+    link-external-icon: false
+
+execute:
+  freeze: auto

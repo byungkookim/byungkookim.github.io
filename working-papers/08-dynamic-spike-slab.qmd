@@ -1,0 +1,6 @@
+---
+title: "Dynamic Spike and Slab Latent Space Model for Longitudinal Networks"
+author: "ByungKoo Kim"
+status: "Working Paper"
+order: 8
+---

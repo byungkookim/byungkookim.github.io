@@ -1,0 +1,8 @@
+---
+title: "Democracy and Clustered Models of Global Economic Engagement"
+author: "ByungKoo Kim and Iain Osgood"
+date: "2024-01-01"
+year: 2024
+venue: "International Studies Quarterly, 68(4)"
+url: "https://academic.oup.com/isq/article/68/4/sqae130/7818362"
+---

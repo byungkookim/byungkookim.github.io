@@ -1,0 +1,6 @@
+---
+title: "Delivering Against Populism: How Infrastructure Investment Undermines Extremist Politics in High-Need Districts"
+author: "Stefano Jud, ByungKoo Kim, Seungjun Kim, and Jong Hee Park"
+status: "Under Review"
+order: 3
+---
