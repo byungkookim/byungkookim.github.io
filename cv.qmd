@@ -20,8 +20,3 @@ The PDF is the authoritative version. The summary below is a snapshot.
 ## Positions
 
 - **Assistant Professor of Data Science**, KDI School of Public Policy and Management, 2023--present
-
-## Software
-
-- **`GVCpack`** --- R package: comprehensive measures of global value chain data
-- **`PCTM`** --- R package: paragraph-citation topic model (with Saki Kuzushima and Yuki Shiraito)
