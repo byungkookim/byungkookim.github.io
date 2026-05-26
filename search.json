@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "You can download my full CV here: Kim_CV.pdf (last updated 2026)."
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "CV",
-    "section": "Education",
-    "text": "Education\n\nPh.D., Political Science, University of Michigan, 2023\nM.A., Statistics, University of Michigan, 2023\nM.A., Political Science, Seoul National University, 2016\nB.A., English Literature & Linguistics (Political Science minor), Seoul National University, 2013"
-  },
-  {
-    "objectID": "cv.html#positions",
-    "href": "cv.html#positions",
-    "title": "CV",
-    "section": "Positions",
-    "text": "Positions\n\nAssistant Professor of Data Science, KDI School of Public Policy and Management, 2023–present"
-  },
-  {
-    "objectID": "cv.html#software",
-    "href": "cv.html#software",
-    "title": "CV",
-    "section": "Software",
-    "text": "Software\n\nGVCpack — R package: comprehensive measures of global value chain data\nPCTM — R package: paragraph-citation topic model (with Saki Kuzushima and Yuki Shiraito)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ByungKoo Kim",
-    "section": "",
-    "text": "I am an Assistant Professor of Data Science at the KDI School of Public Policy and Management.\nMy research lies at the intersection of international political economy and quantitative methods. I work on global supply chains, the politics of trade governance, and the development of Bayesian models for networked data — including text-and-citation models for legal corpora and dynamic latent-space models for trade networks.\nI received my Ph.D. in Political Science and M.A. in Statistics from the University of Michigan in 2023, and my B.A. and M.A. from Seoul National University."
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -54,6 +19,34 @@
     "title": "Research",
     "section": "Working Papers",
     "text": "Working Papers\n\n\n\n\nParagraph-Topic Citation Model for Networked Text Data\n\n\nByungKoo Kim, Saki Kuzushima, and Yuki Shiraito\n\n\nRevise and Resubmit at Bayesian Analysis\n\n\n\n\nDo Jobs Created by Foreign Firms Decrease Support for an Anti-Globalization Politician?\n\n\nByungKoo Kim, Seungjun Kim, and Jong Hee Park\n\n\nUnder Review\n\n\n\n\nDelivering Against Populism: How Infrastructure Investment Undermines Extremist Politics in High-Need Districts\n\n\nStefano Jud, ByungKoo Kim, Seungjun Kim, and Jong Hee Park\n\n\nUnder Review\n\n\n\n\nDo Chinese AI Grants Buy Scientific Influence in the Global South?\n\n\nByungKoo Kim\n\n\nUnder Review\n\n\n\n\nGoverning Locally, Campaigning Nationally: Local Content Deficiency and the Nationalization of Local Campaign Rhetoric\n\n\nByungKoo Kim\n\n\nUnder Review\n\n\n\n\nStyle Over Substance: Citizen Coproduction and the Quality of Public Petitions\n\n\nKyusik Yang, ByungKoo Kim, and Seo-young Silvia Kim\n\n\nUnder Review\n\n\n\n\nGlobal Production Sharing and the New Demands for Deep Preferential Trade Agreements\n\n\nByungKoo Kim\n\n\nWorking Paper\n\n\n\n\nDynamic Spike and Slab Latent Space Model for Longitudinal Networks\n\n\nByungKoo Kim\n\n\nWorking Paper\n\n\n\n\nBarking Dogs Never Bite? Asymmetric Substitutability, Crisis Escalation, and the Onset of Sanctions\n\n\nByungKoo Kim\n\n\nWorking Paper\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ByungKoo Kim",
+    "section": "",
+    "text": "I am an Assistant Professor of Data Science at the KDI School of Public Policy and Management.\nMy research lies at the intersection of international political economy and quantitative methods. I work on global supply chains, the politics of trade governance, and the development of Bayesian models for networked data — including text-and-citation models for legal corpora and dynamic latent-space models for trade networks.\nI received my Ph.D. in Political Science and M.A. in Statistics from the University of Michigan in 2023, and my B.A. and M.A. from Seoul National University."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can download my full CV here: Kim_CV.pdf (last updated 2026)."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nPh.D., Political Science, University of Michigan, 2023\nM.A., Statistics, University of Michigan, 2023\nM.A., Political Science, Seoul National University, 2016\nB.A., English Literature & Linguistics (Political Science minor), Seoul National University, 2013"
+  },
+  {
+    "objectID": "cv.html#positions",
+    "href": "cv.html#positions",
+    "title": "CV",
+    "section": "Positions",
+    "text": "Positions\n\nAssistant Professor of Data Science, KDI School of Public Policy and Management, 2023–present"
   },
   {
     "objectID": "teaching.html",
